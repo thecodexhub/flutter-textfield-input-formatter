@@ -1,15 +1,8 @@
-# flutter_textfield_input_formatter
+# Flutter TextField InputFormatter Example
 
-A new Flutter project.
+Learn how to format user input on-the-fly for a text field.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
