@@ -9,6 +9,9 @@ This project shows-
 - how to use LengthLimitingTextInputFormatter.
 - how to create nad use custom TextInputFormatters.
 
+> **Note** 
+> Read the article here on [Medium](https://medium.com/@thecodexhubofficial/textinputformatter-in-flutter-format-users-input-on-the-fly-71510af8a44c). 👈
+
 ## Preview
 
 <div style="text-align: center">
@@ -41,3 +44,5 @@ This project shows-
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### If you like this repository, kindly give it a star ⭐
